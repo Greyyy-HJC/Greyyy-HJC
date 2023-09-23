@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### I'm Jinchen
+### Hi there 👋 I'm Jinchen
 
 - 🔭 I’m currently working on Lattice QCD calculation of the nucleon structure.
 - 🌱 I’m currently learning effective field theory.
