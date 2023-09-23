@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning effective field theory.
 - 👯 I’m looking to collaborate on AI FOR SCIENCE & Lattice calculation.
 - 📫 How to reach me: hejinchen17@gmail.com
-- [Publications](https://inspirehep.net/authors/1935435?ui-citation-summary=true)
+- 📖 [Publications](https://inspirehep.net/authors/1935435?ui-citation-summary=true)
+- ⚡ Fun fact: Lorentz boost has dynamics.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greyyy-HJC)](https://github.com/anuraghazra/github-readme-stats)
 
