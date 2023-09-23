@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### I'm Jinchen
+
+- 🔭 I’m currently working on Lattice QCD calculation of the nucleon structure.
+- 🌱 I’m currently learning effective field theory.
+- 👯 I’m looking to collaborate on AI FOR SCIENCE & Lattice calculation.
+- 📫 How to reach me: hejinchen17@gmail.com
+
 <!--
 **Greyyy-HJC/Greyyy-HJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
