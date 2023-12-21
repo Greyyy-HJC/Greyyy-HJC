@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Lattice QCD calculation of the nucleon structure.
 - 🌱 I’m currently learning effective field theory.
-- 👯 I’m looking to collaborate on [AI FOR SCIENCE](https://www.mit.edu/~soljacic/AI.html) & Lattice calculation.
+- 👯 I’m looking to collaborate on [AI & PHYSICS](https://github.com/Greyyy-HJC/TheoristGPT
+) & Lattice calculation.
 - 📫 How to reach me: hejinchen17@gmail.com
 - 📖 [Publications](https://inspirehep.net/authors/1935435?ui-citation-summary=true)
 - ⚡️ Fun fact: Lorentz boost has dynamics.
